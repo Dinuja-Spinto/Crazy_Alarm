@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994985740998",
+    "project_id": "carzyalarm",
+    "storage_bucket": "carzyalarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994985740998:android:53ab2cd9a476a693a825c7",
+        "android_client_info": {
+          "package_name": "com.example.crazy_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994985740998-atk76nie9j3681h4vnikqml5dfveog4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYrWRWIq0TQMRIu1aBAwyhwqv6ekTYFoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994985740998-atk76nie9j3681h4vnikqml5dfveog4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
