@@ -15,8 +15,9 @@ class _TodoListAddState extends State<ToDoListAdd> {
           padding: EdgeInsets.all(32),
           child: Column(
             children: [
-              Text('Add ToDo',
-                style: TextStyle(color:Colors.white, fontSize: 24),
+              Text(
+                'Add ToDo',
+                style: TextStyle(color: Colors.white, fontSize: 24),
               ),
               SizedBox(
                 height: 24,
@@ -39,7 +40,20 @@ class _TodoListAddState extends State<ToDoListAdd> {
             ],
           ),
         ),
+      ),
+      bottomNavigationBar: Container(
+        padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
+        color: Colors.transparent,
+        child: BottomAppBar(
+          color: Colors.transparent,
+          child: ElevatedButton(
+              onPressed: () {},
+              child: Text(
+                "Save",
+                style: TextStyle(color: Colors.white),
+              )),
         ),
+      ),
     );
   }
 }
