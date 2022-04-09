@@ -1,1 +1,1 @@
-enum MenuType {clock, alarm, todo, note}
+enum MenuType {clock, alarm, todo, note,reminder}

@@ -8,4 +8,5 @@ List<MenuInfo> menuItems = [
   MenuInfo(MenuType.alarm, title: 'Alarm', image: 'images/alarm_icon.png'),
   MenuInfo(MenuType.todo, title: 'ToDo', image: 'images/todo.png'),
   MenuInfo(MenuType.note, title: 'Notes', image: 'images/note.png'),
+  MenuInfo(MenuType.note, title: 'Notes', image: 'images/reminder.png'),
 ];
